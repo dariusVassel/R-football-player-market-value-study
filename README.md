@@ -1,4 +1,4 @@
-# R-football-player-market-value-study
+# R Football Player Market Value Study
 
 ## Hypothesis
 Our research surrounded analysing the best predictors for the market value in order to find the right model fit by running a linear regression analysis.
