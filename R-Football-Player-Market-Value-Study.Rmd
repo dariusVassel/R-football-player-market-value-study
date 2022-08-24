@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
+library(knitr)
 install.packages("ggplot2")
 library(ggplot2)
 install.packages("dplyr")
